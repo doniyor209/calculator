@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.calculator-div-box{
+    width: 450px;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 50px auto;
+}
+input{
+    width: 70px;
+    height: 70px;
+    font-size: 24px;
+    border-radius: 8px;
+    margin: 10px;
+}
+#calculator{
+    width: 85%;
+    padding: 5px;
+    text-align: end;
+}
+.reshi{
+    width: 160px;
+
+}
